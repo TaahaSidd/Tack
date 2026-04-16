@@ -1,7 +1,7 @@
 ## Tack
 Accurate Inventory for Adhesive Makers.
- 
-<img width="2720" height="2720" alt="Bondr" src="https://github.com/user-attachments/assets/f704b9c1-3d65-40ef-acfc-b37bbc36c4d7" />
+
+<img width="5520" height="1872" alt="Banner" src="https://github.com/user-attachments/assets/4bd48f59-1044-4c7e-91d8-94bf63ecb186" />
 
 Tack is a lightweight SaaS designed specifically for small-scale adhesive manufacturers—like those operating in Riyadh or Pune—who need to move beyond spreadsheets without the complexity of a massive ERP.
 
